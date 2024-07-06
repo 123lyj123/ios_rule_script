@@ -16,6 +16,10 @@ HOST,img-prod-cms-rt-microsoft-com.akamaized.net,Game
 HOST,login.live.com,Game
 HOST,logincdn.msauth.net,Game
 HOST,store-images.s-microsoft.com,Game
+HOST-SUFFIX,arenaofvalor.com,Game
+HOST-SUFFIX,aovgame.com,Game
+HOST-SUFFIX,garena.tw,Game
+HOST-SUFFIX,proximabeta.com,Game
 HOST-SUFFIX,battle.net,Game
 HOST-SUFFIX,battlenet.com.cn,Game
 HOST-SUFFIX,blizzard.com,Game
